@@ -1,5 +1,5 @@
 {
-  "name": "italify-my-string-dude",
+  "name": "italify-string",
   "version": "1.0.3",
   "description": "Never write a boring string again.",
   "main": "index.js",
