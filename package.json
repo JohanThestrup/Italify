@@ -1,6 +1,6 @@
 {
   "name": "italify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Never write a boring string again.",
   "main": "index.js",
   "scripts": {
