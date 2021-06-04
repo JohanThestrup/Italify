@@ -10,4 +10,4 @@ Add some Italian flavor to your strings!
 
 ### `italify("You are amazing")`
 
-### You are amazing 🤌
+## Produces: You are amazing 🤌
