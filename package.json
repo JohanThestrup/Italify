@@ -1,13 +1,13 @@
 {
   "name": "italify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Never write a boring string again.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "Johan Thestrup",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.4",
